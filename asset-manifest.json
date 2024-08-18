@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/skibidai-public-build/static/css/main.9f567143.css",
+    "main.js": "/skibidai-public-build/static/js/main.c85d4602.js",
+    "index.html": "/skibidai-public-build/index.html",
+    "main.9f567143.css.map": "/skibidai-public-build/static/css/main.9f567143.css.map",
+    "main.c85d4602.js.map": "/skibidai-public-build/static/js/main.c85d4602.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f567143.css",
+    "static/js/main.c85d4602.js"
+  ]
+}
